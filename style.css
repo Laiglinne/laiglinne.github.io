@@ -1,2 +1,16 @@
-h1 { color: red; }
-q  { background: blue; }
+body {
+  background-color: #77AAAD;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+footer {
+  bockground-color:  #D8E6E7
+}
