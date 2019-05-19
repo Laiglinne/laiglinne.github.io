@@ -1,9 +1,9 @@
-#topMenu {
+#top_menu {
   height: 5%;
   width: 100%;
 }
 
-#topMenu ul li {
+#top_menu ul li {
   list-style: none;
   color: white; 
   background-color: #77aaad;
@@ -13,7 +13,7 @@
   text-align: center;
 }
 
-#topMenu .menuitem {
+#top_menu .menuitem {
    text-decoration:none;
   color: white;
   display: block;
