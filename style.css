@@ -1,5 +1,5 @@
 #top_menu {
-  height: 5%;
+  height: 10%;
   width: 100%;
 }
 
@@ -8,16 +8,17 @@
   color: white; 
   background-color: #77aaad;
   float: left;
-  line-height: 30px;
+  line-height: 10%;
   vertical-align: middle;
   text-align: center;
 }
 
 #top_menu .menuitem {
-   text-decoration:none;
+  text-decoration:none;
   color: white;
   display: block;
-  width: 33.33%;
+  width: 20%;
+  
 }
 
 body {
