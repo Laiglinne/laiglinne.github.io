@@ -5,26 +5,19 @@
   background-color: #bcbcbc;
 }
 #jb-header {
-  padding: 20px;
-  margin-bottom: 20px;
   border: 1px solid #77aaad;
 }
 #jb-content {
-  width: 580px;
-  padding: 20px;
-  margin-bottom: 20px;
+  width: 100%;
   float: left;
   border: 1px solid #bcbcbc;
 }
   #jb-sidebar {
-  width: 260px;
-  padding: 20px;
-  margin-bottom: 20px;
+  width: 100%;
   float: right;
   border: 1px solid #bcbcbc;
 }
 #jb-footer {
   clear: both;
-  padding: 20px;
   background-color: #D8E6E7; 
 }
