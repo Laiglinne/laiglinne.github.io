@@ -1,8 +1,8 @@
 #jb-container {
-  width: 940px;
+  width: 100%;
   margin: 0px auto;
   padding: 20px;
-  border: 1px solid #bcbcbc;
+  background-color: #bcbcbc;
 }
 #jb-header {
   padding: 20px;
@@ -26,5 +26,5 @@
 #jb-footer {
   clear: both;
   padding: 20px;
-  border: 1px solid #D8E6E7; 
+  background-color: #D8E6E7; 
 }
