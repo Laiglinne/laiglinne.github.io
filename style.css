@@ -1,3 +1,18 @@
+#topMenu {
+  width: 5%; // topMenu의 넓이를 850px로 설정(제대로 설정 안하면 브라우져 넓이가 좁아지면 깨짐)
+}
+
+#topMenu ul li {
+  list-style: none;
+  color: white; 
+  background-color: #77aaad;
+  float: left;
+  line-height: 30px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+
 body {
   background-color: #77AAAD;
 }
