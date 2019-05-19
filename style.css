@@ -2,10 +2,10 @@
   width: 100%;
   margin: 0px auto;
   padding: 20px;
-  background-color: #bcbcbc;
+  background-color: white;
 }
 #jb-header {
-  border: 1px solid #77aaad;
+  background-color: #77aaad;
 }
 #jb-content {
   width: 100%;
