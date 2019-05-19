@@ -6,6 +6,10 @@ h1 {
   text-align: center;
 }
 
+q {
+  background-color: white;
+}
+
 p {
   font-family: verdana;
   font-size: 20px;
